@@ -1,3 +1,5 @@
+os: mac
+-
 # See: https://github.com/mjrusso/scoot#keybindings
 
 # Modes
